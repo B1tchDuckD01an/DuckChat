@@ -1,0 +1,11 @@
+C:\Users\aeons\source\repos\DuckChat\DuckChatClient\obj\Debug\netcoreapp3.0\DuckChatClient.csprojAssemblyReference.cache
+C:\Users\aeons\source\repos\DuckChat\DuckChatClient\obj\Debug\netcoreapp3.0\DuckChatClient.AssemblyInfoInputs.cache
+C:\Users\aeons\source\repos\DuckChat\DuckChatClient\obj\Debug\netcoreapp3.0\DuckChatClient.AssemblyInfo.cs
+C:\Users\aeons\source\repos\DuckChat\DuckChatClient\bin\Debug\netcoreapp3.0\DuckChatClient.exe
+C:\Users\aeons\source\repos\DuckChat\DuckChatClient\bin\Debug\netcoreapp3.0\DuckChatClient.deps.json
+C:\Users\aeons\source\repos\DuckChat\DuckChatClient\bin\Debug\netcoreapp3.0\DuckChatClient.runtimeconfig.json
+C:\Users\aeons\source\repos\DuckChat\DuckChatClient\bin\Debug\netcoreapp3.0\DuckChatClient.runtimeconfig.dev.json
+C:\Users\aeons\source\repos\DuckChat\DuckChatClient\bin\Debug\netcoreapp3.0\DuckChatClient.dll
+C:\Users\aeons\source\repos\DuckChat\DuckChatClient\bin\Debug\netcoreapp3.0\DuckChatClient.pdb
+C:\Users\aeons\source\repos\DuckChat\DuckChatClient\obj\Debug\netcoreapp3.0\DuckChatClient.dll
+C:\Users\aeons\source\repos\DuckChat\DuckChatClient\obj\Debug\netcoreapp3.0\DuckChatClient.pdb

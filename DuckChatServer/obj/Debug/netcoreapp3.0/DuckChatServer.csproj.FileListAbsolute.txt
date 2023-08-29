@@ -1,0 +1,11 @@
+C:\Users\aeons\source\repos\DuckChat\DuckChatServer\bin\Debug\netcoreapp3.0\DuckChatServer.exe
+C:\Users\aeons\source\repos\DuckChat\DuckChatServer\bin\Debug\netcoreapp3.0\DuckChatServer.deps.json
+C:\Users\aeons\source\repos\DuckChat\DuckChatServer\bin\Debug\netcoreapp3.0\DuckChatServer.runtimeconfig.json
+C:\Users\aeons\source\repos\DuckChat\DuckChatServer\bin\Debug\netcoreapp3.0\DuckChatServer.runtimeconfig.dev.json
+C:\Users\aeons\source\repos\DuckChat\DuckChatServer\bin\Debug\netcoreapp3.0\DuckChatServer.dll
+C:\Users\aeons\source\repos\DuckChat\DuckChatServer\bin\Debug\netcoreapp3.0\DuckChatServer.pdb
+C:\Users\aeons\source\repos\DuckChat\DuckChatServer\obj\Debug\netcoreapp3.0\DuckChatServer.csprojAssemblyReference.cache
+C:\Users\aeons\source\repos\DuckChat\DuckChatServer\obj\Debug\netcoreapp3.0\DuckChatServer.AssemblyInfoInputs.cache
+C:\Users\aeons\source\repos\DuckChat\DuckChatServer\obj\Debug\netcoreapp3.0\DuckChatServer.AssemblyInfo.cs
+C:\Users\aeons\source\repos\DuckChat\DuckChatServer\obj\Debug\netcoreapp3.0\DuckChatServer.dll
+C:\Users\aeons\source\repos\DuckChat\DuckChatServer\obj\Debug\netcoreapp3.0\DuckChatServer.pdb

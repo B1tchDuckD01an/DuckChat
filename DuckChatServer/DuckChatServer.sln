@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckChatServer", "DuckChatServer.csproj", "{4A6A04E1-C1AF-4E2D-8E5D-4B7DE6438879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckChatClient", "..\DuckChatClient\DuckChatClient.csproj", "{3F2FD2F3-184C-4739-B6F5-269F44CEB0C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A6A04E1-C1AF-4E2D-8E5D-4B7DE6438879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A6A04E1-C1AF-4E2D-8E5D-4B7DE6438879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A6A04E1-C1AF-4E2D-8E5D-4B7DE6438879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A6A04E1-C1AF-4E2D-8E5D-4B7DE6438879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2FD2F3-184C-4739-B6F5-269F44CEB0C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2FD2F3-184C-4739-B6F5-269F44CEB0C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2FD2F3-184C-4739-B6F5-269F44CEB0C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2FD2F3-184C-4739-B6F5-269F44CEB0C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEC5DF6C-D0D9-4EB9-B84D-1B73AB649906}
+	EndGlobalSection
+EndGlobal
